@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Aspirationtocode/my-project/issues"
   },
-  "homepage": "https://github.com/Aspirationtocode/my-project#readme"
+  "homepage": "https://github.com/Aspirationtocode/my-project#readme",
+  "dependencies": {
+    "library": "git+https://github.com/Aspirationtocode/library.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }
