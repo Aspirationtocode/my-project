@@ -1,1 +1,2 @@
-import * as s from "library";
+import * as library from "@aspirationtocode/library";
+console.log(library.sum(1, 2));
