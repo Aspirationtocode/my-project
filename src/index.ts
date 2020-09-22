@@ -1,2 +1,2 @@
-import * as library from "@aspirationtocode/library";
-console.log(library.sum(1, 2));
+import { Kek, sum } from "@aspirationtocode/library";
+sum(1, 2);
